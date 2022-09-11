@@ -26,4 +26,3 @@ If you want to read the docs, start with the two links below.
 
 - [API overview](Overview.md).
 - [API sections](Sections.md)
-
