@@ -1,4 +1,4 @@
-# Costs to Expect API: Expense tracking and forecasting
+# Costs to Expect API
 
 ## Overview
 
@@ -20,9 +20,13 @@ There are multiple products within the Costs to Expect service; they are all dri
 
 If you are in a hurry and know your way around an API, head on over the to API [repository](https://github.com/costs-to-expect/api) and read the [README](https://github.com/costs-to-expect/api#readme), we have listed all the routes and there is an OPTIONS request for everything.
 
+Please read the overview, it details the API design.
+
+- [API overview](Overview.md)
+
 ## Not in a hurry?
 
-If you want to read the docs, start with the two links below.
+If you want to read the all docs, start with the two links below, the sections file contains link to every route/verb.
 
-- [API overview](Overview.md).
+- [API overview](Overview.md)
 - [API sections](Sections.md)

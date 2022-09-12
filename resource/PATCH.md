@@ -1,11 +1,10 @@
-# Resource types - PATCH
+# Resource - PATCH
 
-Update the resource type, the table below details the fields
-and their data type
+Update the resource, the table below details the fields and their data type
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}`
+**URL** : `/v2/resource-types/{resource_type_id}/resources/{resource_id}`
 
 **Method** : `PATCH`
 
@@ -16,7 +15,6 @@ Name | Type | Description
 name | string | The name of the resource type
 description | string | A description of the resource type
 data | json | An optional json object
-public | boolean | Should the resource type be publically visible, defaults to false
 
 ## Responses
 
@@ -33,7 +31,7 @@ public | boolean | Should the resource type be publically visible, defaults to f
 **Content** : 
 ```json
 {
-    "message": "Resource type can't be found."
+    "message": "Resource can't be found."
 }
 ```
 
@@ -44,7 +42,7 @@ public | boolean | Should the resource type be publically visible, defaults to f
 **Content** : 
 ```json
 {
-    "message": "Resource type can't be found or is not accessible to you."
+    "message": "Resource can't be found or is not accessible to you."
 }
 ```
 
