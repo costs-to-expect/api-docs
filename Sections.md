@@ -13,7 +13,7 @@ up to date, the OPTIONS request responses always have the most accurate data.
 
 In the Costs to Expect API there are three core levels, resource types -> resources -> items.
 
-Items are the individual items defined by the resource type, these coupld be expenses, items on your Budget or board games for our scoring App.
+Items are the individual items defined by the resource type, these could be expenses, items on your Budget or board games for our scoring App.
 
 Resources are the names for the collections, lists or trackers.
 
@@ -37,6 +37,19 @@ An individual resource type.
 ## Item types
 
 ## Resources
+
+Resources act as the groups or containers for items. An item subtype gets set when a resource is created, these allow additional control at the item level. With our game trackers, you define the item type on the resource as "game" and then at the resource level you can further set the specific game, for example "Yahtzee" or "Yatzy".
+
+- [GET](/resources/GET.md)
+- [POST](/resources/POST.md)
+
+## Resource
+
+An individual resource.
+
+- [GET](/resource/GET.md)
+- [PATCH](resource/PATCH.md)
+- [DELETE](/resource/DELETE.md)
 
 ## Item subtypes
 
