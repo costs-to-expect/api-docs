@@ -8,7 +8,7 @@ The user that creates a resource type is the permitted user, the API allows ther
 
 ## Request
 
-**URL** : `/v2/resource-types/`
+**URL** : `/v3/resource-types/`
 
 **Method** : `GET`
 

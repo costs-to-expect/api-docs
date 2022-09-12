@@ -5,7 +5,7 @@ and their data type
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}`
+**URL** : `/v3/resource-types/{resource_type_id}`
 
 **Method** : `PATCH`
 

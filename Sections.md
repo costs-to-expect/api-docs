@@ -3,7 +3,11 @@
 There is an OPTIONS endpoint for each route, the largely include this documention. Although we strive to ensure the document is 
 up to date, the OPTIONS request responses always have the most accurate data.
 
-## Entry
+## Entry point
+
+Start here.
+
+- [GET](GET.md)
 
 ## Authentication
 
