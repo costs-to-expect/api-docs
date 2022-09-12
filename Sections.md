@@ -8,6 +8,10 @@ Start here.
 
 - [GET](GET.md)
 
+## Schemas
+
+
+
 ## Authentication
 
 ## Changelog
