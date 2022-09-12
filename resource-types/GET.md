@@ -14,14 +14,14 @@ The user that creates a resource type is the permitted user, the API allows ther
 
 **Parameters** :
 
-Parameter | Default | Description | Example
----|---|---|---
-collection | | Override pagination and return the entire collection | collection=true
-limit | 25 | Limit the collection | limit=25
-offset | 0 | Limit offset | offset=0
-search | | Search collection fields | field1:partial_search_term\|field2:partial_search_term
-sort | | Sort collection | field1:asc|field2:desc
-item-type | | Filter by itype type | item-type=2AP1axw6L7
+Parameter | Type | Default | Description | Example
+---|---|---|---|---
+collection | boolean | false | Override pagination and return the entire collection | collection=true
+limit | integer | 25 | Limit the collection | limit=25
+offset | integer | 0 | Limit offset | offset=0
+search | string | | Search collection fields | field1:partial_search_term\|field2:partial_search_term
+sort | string | | Sort collection | field1:asc|field2:desc
+item-type | string | | Filter by itype type | item-type=2AP1axw6L7
 
 
 ## Response
