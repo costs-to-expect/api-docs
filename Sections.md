@@ -10,7 +10,9 @@ Start here.
 
 ## Schemas
 
+Schema files for all of our data.
 
+- [Schemas](/schemas/Schemas.md)
 
 ## Authentication
 
