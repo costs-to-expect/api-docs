@@ -4,7 +4,7 @@ Delete the requested resource, you are not able to delete a resource until every
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}/resources/{resource_id}`
+**URL** : `/v3/resource-types/{resource_type_id}/resources/{resource_id}`
 
 **Method** : `DELETE`
 

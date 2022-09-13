@@ -4,7 +4,7 @@ View your resources, this will be every resource that exists below the selected 
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}/resources`
+**URL** : `/v3/resource-types/{resource_type_id}/resources`
 
 **Method** : `GET`
 

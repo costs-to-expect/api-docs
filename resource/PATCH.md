@@ -4,7 +4,7 @@ Update the resource, the table below details the fields and their data type
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}/resources/{resource_id}`
+**URL** : `/v3/resource-types/{resource_type_id}/resources/{resource_id}`
 
 **Method** : `PATCH`
 

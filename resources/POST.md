@@ -4,7 +4,7 @@ Create a new resource, the table below details the fields and their data type
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}/resources`
+**URL** : `/v3/resource-types/{resource_type_id}/resources`
 
 **Method** : `POST`
 

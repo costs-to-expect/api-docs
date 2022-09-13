@@ -4,7 +4,7 @@ Return an individual resource type
 
 ## Request
 
-**URL** : `/v2/resource-types/{resource_type_id}`
+**URL** : `/v3/resource-types/{resource_type_id}`
 
 **Method** : `GET`
 

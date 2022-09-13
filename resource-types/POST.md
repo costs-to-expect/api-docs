@@ -5,7 +5,7 @@ and their data type
 
 ## Request
 
-**URL** : `/v2/resource-types/`
+**URL** : `/v3/resource-types/`
 
 **Method** : `POST`
 
