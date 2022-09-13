@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource types - PATCH
 
 Update the resource type, the table below details the fields

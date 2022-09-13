@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resources - POST
 
 Create a new resource, the table below details the fields and their data type

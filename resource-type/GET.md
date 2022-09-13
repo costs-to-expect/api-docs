@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource type - GET
 
 Return an individual resource type

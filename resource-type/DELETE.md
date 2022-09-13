@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource types - DELETE
 
 Delete the requested resource type, you are not able to delete a resource type until every 

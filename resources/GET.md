@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resources - GET
 
 View your resources, this will be every resource that exists below the selected resource type.

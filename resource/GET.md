@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource - GET
 
 Return an individual resource.

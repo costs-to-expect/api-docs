@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource types - GET
 
 View your resource types, access to resource types is controlled by two mechanisms, public status and whether you are permitted user.

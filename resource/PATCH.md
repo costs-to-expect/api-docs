@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource - PATCH
 
 Update the resource, the table below details the fields and their data type
