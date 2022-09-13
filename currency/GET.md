@@ -1,6 +1,6 @@
 [API Sections](../Sections.md)
 
-# Resource - GET
+# Currency - GET
 
 Return an individual currency.
 

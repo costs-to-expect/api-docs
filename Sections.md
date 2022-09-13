@@ -49,6 +49,12 @@ An individual currency.
 
 - [GET](/currency/GET.md)
 
+### Queue
+
+View all tbe jobs on the queue.
+
+- [GET](/queue/GET.md)
+
 ### Resource types
 
 Resource type collection.

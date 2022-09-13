@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Changelog - GET
 
 In addition to providing a changelog file, the changelog route returns all our releases as an easily parsable JSON object. We parse the CHANGELOG.md file to generate the endpoint data so it is always upto date.
