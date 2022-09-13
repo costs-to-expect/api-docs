@@ -2,7 +2,7 @@
 
 # Resources - GET
 
-View your resources, this will be every resource that exists below the selected resource type.
+Resources act as the groups or containers for items. An item subtype gets set when a resource is created, these allow additional control at the item level. With our game trackers, you define the item type on the resource as "game" and then at the resource level you can further set the specific game, for example "Yahtzee" or "Yatzy".
 
 ## Request
 

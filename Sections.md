@@ -18,6 +18,8 @@ Resource types are the base and where we define the item type as well as permitt
 
 Below is a title for each route and the corresponding verbs, the OPTIONS verb is not listed however there is an OPTIONS endpoint for each route.
 
+*Typically, in addition to the docs, the GET route for the collection includes an overview.* 
+
 ### Entry point
 
 Start here.
@@ -72,7 +74,7 @@ An individual resource type.
 
 #### Resources
 
-Resources act as the groups or containers for items. An item subtype gets set when a resource is created, these allow additional control at the item level. With our game trackers, you define the item type on the resource as "game" and then at the resource level you can further set the specific game, for example "Yahtzee" or "Yatzy".
+Resources collection.
 
 - [GET](/resources/GET.md)
 - [POST](/resources/POST.md)
