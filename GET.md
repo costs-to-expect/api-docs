@@ -1,3 +1,5 @@
+[API Sections](Sections.md)
+
 # API - GET
 
 Entry point for the API, shows the meta data for the API and lists all routes and the supported verbs.

@@ -35,11 +35,29 @@ Schema files for all of our data.
 
 View all the releases.
 
-- [GET](changes/GET.md)
+- [GET](/changelog/GET.md)
+
+### Currencies
+
+Currencies collection.
+
+- [GET](/currencies/GET.md)
+
+### Currency
+
+An individual currency.
+
+- [GET](/currency/GET.md)
+
+### Queue
+
+View all tbe jobs on the queue.
+
+- [GET](/queue/GET.md)
 
 ### Resource types
 
-Resource type collection
+Resource type collection.
 
 - [GET](/resource-types/GET.md)
 - [POST](/resource-types/POST.md)

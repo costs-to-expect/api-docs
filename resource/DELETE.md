@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Resource - DELETE
 
 Delete the requested resource, you are not able to delete a resource until every item below it has been removed.

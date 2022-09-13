@@ -1,3 +1,5 @@
+[API Sections](../Sections.md)
+
 # Schemas
 
 We are in the process of generating schemas for all of our data.  This is a work in progress, and we will update this page as we add new schema files.
