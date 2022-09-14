@@ -2,7 +2,9 @@
 
 # Currencies - GET
 
-Return the supported currencies, currency support needs to be added in the code, we don't allow it to be changed via the API.
+Return the supported currencies.
+
+*Support for new currencies needs to be added in the code, we don't allow it to be changed via the API so no POST endpoint*
 
 ## Request
 

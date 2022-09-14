@@ -57,6 +57,18 @@ View all tbe jobs on the queue.
 
 - [GET](/queue/GET.md)
 
+### Item types
+
+Item types collection.
+
+- [GET](/item-types/GET.md)
+
+### Item type
+
+An individual item type.
+
+- [GET](/item-type/GET.md)
+
 ### Resource types
 
 Resource type collection.
