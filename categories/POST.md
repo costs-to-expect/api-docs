@@ -4,7 +4,7 @@
 
 # Categories - POST
 
-Create a new category, the the table below details the fields and their data type
+Create a new category, the table below details the fields and their data type
 
 ## Request
 

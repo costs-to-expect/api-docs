@@ -109,6 +109,9 @@ An individual category.
 
 Subcategories collection.
 
+- [GET](/subcategories/GET.md)
+- [POST](/subcategories/POST.md)
+
 ##### Subcategory
 
 An individual subcategory.
