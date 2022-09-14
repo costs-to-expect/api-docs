@@ -69,6 +69,18 @@ An individual item type.
 
 - [GET](/item-type/GET.md)
 
+#### Item subtypes
+
+Item subtypes collection.
+
+- [GET](/item-subtypes/GET.md)
+
+#### Item subtype
+
+An individual item subtype.
+
+- [GET](/item-subtype/GET.md)
+
 ### Resource types
 
 Resource type collection.
