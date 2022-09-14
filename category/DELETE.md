@@ -1,14 +1,15 @@
 [API Sections](../Sections.md)
 [Resource types](../resource-types/GET.md)
+[Resource type](../resource-type/GET.md)
+[Categories](../categories/GET.md)
 
-# Resource type - DELETE
+# Category - DELETE
 
-Delete the requested resource type, you are not able to delete a resource type until every 
-item below it has been removed.
+Delete the requested category, you are not able to delete a category until every subcategory below it has been removed and it is no longer associated with any items.
 
 ## Request
 
-**URL** : `/v3/resource-types/{resource_type_id}`
+**URL** : `/v3/resource-types/{resource_type_id}/categories/{category_id}`
 
 **Method** : `DELETE`
 
@@ -38,7 +39,7 @@ item below it has been removed.
 **Content** : 
 ```json
 {
-    "message": "The resource type can't be found."
+    "message": "The category can't be found."
 }
 ```
 
@@ -49,6 +50,6 @@ item below it has been removed.
 **Content** : 
 ```json
 {
-    "message": "Resource type can't be found or is not accessible to you."
+    "message": "Category can't be found or is not accessible to you."
 }
 ```

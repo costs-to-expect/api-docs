@@ -95,10 +95,15 @@ An individual resource type.
 Categories collection.
 
 - [GET](/categories/GET.md)
+- [POST](/categories/POST.md)
 
-####
+#### Category
 
 An individual category.
+
+- [GET](/category/GET.md)
+- [PATCH](/category/PATCH.md)
+- [DELETE](category/DELETE.md)
 
 ##### Subcategories
 

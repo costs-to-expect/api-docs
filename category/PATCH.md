@@ -1,9 +1,11 @@
 [API Sections](../Sections.md)
 [Resource types](../resource-types/GET.md)
+[Resource type](../resource-type/GET.md)
+[Categories](../categories/GET.md)
 
-# Resource type - PATCH
+# Category - PATCH
 
-Update the resource type, the table below details the fields and their data type
+Update the category, the table below details the fields and their data type
 
 ## Request
 
@@ -15,10 +17,8 @@ Update the resource type, the table below details the fields and their data type
 
 Name | Type | Description
 ---|---|---
-name | string | The name of the resource type
-description | string | A description of the resource type
-data | json | An optional json object
-public | boolean | Should the resource type be publicly visible, defaults to false
+name | string | The name of the category
+description | string | A description of the category
 
 ## Responses
 
@@ -35,7 +35,7 @@ public | boolean | Should the resource type be publicly visible, defaults to fal
 **Content** : 
 ```json
 {
-    "message": "Resource type can't be found."
+    "message": "Category can't be found."
 }
 ```
 
@@ -46,7 +46,7 @@ public | boolean | Should the resource type be publicly visible, defaults to fal
 **Content** : 
 ```json
 {
-    "message": "Resource type can't be found or is not accessible to you."
+    "message": "Category can't be found or is not accessible to you."
 }
 ```
 
