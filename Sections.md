@@ -116,6 +116,10 @@ Subcategories collection.
 
 An individual subcategory.
 
+- [GET](/subcategory/GET.md)
+- [PATCH](/subcategory/PATCH.md)
+- [DELETE](/subcategory/DELETE.md)
+
 #### Resources
 
 Resources collection.
