@@ -1,4 +1,5 @@
 [API Sections](../Sections.md)
+[Resource types](../resource-types/GET.md)
 
 # Resource types - DELETE
 

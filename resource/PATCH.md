@@ -1,4 +1,7 @@
 [API Sections](../Sections.md)
+[Resource types](../resource-types/GET.md)
+[Resource type](../resource-type/GET.md)
+[Resources](../resources/GET.md)
 
 # Resource - PATCH
 

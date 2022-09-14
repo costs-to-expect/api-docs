@@ -90,6 +90,24 @@ An individual resource type.
 - [PATCH](/resource-type/PATCH.md)
 - [DELETE](/resource-type/DELETE.md)
 
+#### Categories
+
+Categories collection.
+
+- [GET](/categories/GET.md)
+
+####
+
+An individual category.
+
+##### Subcategories
+
+Subcategories collection.
+
+##### Subcategory
+
+An individual subcategory.
+
 #### Resources
 
 Resources collection.

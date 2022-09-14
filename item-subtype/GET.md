@@ -1,4 +1,7 @@
 [API Sections](../Sections.md)
+[Item types](../item-types/GET.md)
+[Item type](../item-type/GET.md)
+[Item subtypes](../item-subtypes/GET.md)
 
 # Item subtype - GET
 
