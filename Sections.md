@@ -1,18 +1,12 @@
 # API Sections
 
-There is an OPTIONS endpoint for each route, they largely include this documention, or more accurately, this documentation was created from the OPTIONS request. Although we strive to ensure the documentation is upto date, the OPTIONS request responses should always have the most accurate information.
+There is an OPTIONS endpoint for each route, they largely include this documentation, or more accurately, this documentation was created from the OPTIONS request responses. Although we strive to ensure the documentation is up to date, the OPTIONS request responses should always have the most accurate information.
 
 We have tried to layout this file to match the structure of the API, for some routes that doesn't make sense, we will probably have tacked them on the end.
 
 ## Structure Overview
 
-In the Costs to Expect API there are three levels to the main data, `resource types` -> `resources` -> `items`.
-
-Items are the individual items defined by the resource type, these could be expenses, items on your Budget or board games for our scoring App.
-
-Resources are the names for the collections, lists or trackers.
-
-Resource types are the base and where we define the item type as well as permitted users and public visibility status.
+In the Costs to Expect API there are three levels to the main data, `resource types` -> `resources` -> `items`, please review the sections below for additional information on each entity.
 
 ## Routes and Verbs
 
