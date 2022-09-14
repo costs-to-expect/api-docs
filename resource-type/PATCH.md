@@ -1,9 +1,9 @@
 [API Sections](../Sections.md)
+[Resource types](../resource-types/GET.md)
 
-# Resource types - PATCH
+# Resource type - PATCH
 
-Update the resource type, the table below details the fields
-and their data type
+Update the resource type, the table below details the fields and their data type
 
 ## Request
 
@@ -18,7 +18,7 @@ Name | Type | Description
 name | string | The name of the resource type
 description | string | A description of the resource type
 data | json | An optional json object
-public | boolean | Should the resource type be publically visible, defaults to false
+public | boolean | Should the resource type be publicly visible, defaults to false
 
 ## Responses
 

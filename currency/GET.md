@@ -1,4 +1,5 @@
 [API Sections](../Sections.md)
+[Currencies](../currencies/GET.md)
 
 # Currency - GET
 

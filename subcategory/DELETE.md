@@ -1,15 +1,17 @@
 [API Sections](../Sections.md)
 [Resource types](../resource-types/GET.md)
 [Resource type](../resource-type/GET.md)
-[Resources](../resources/GET.md)
+[Categories](../categories/GET.md)
+[Category](../category/GET.md)
+[Subcategories](../subcategories/GET.md)
 
-# Resource - DELETE
+# Subcategory - DELETE
 
-Delete the requested resource, you are not able to delete a resource until every item below it has been removed.
+Delete the requested subcategory, you are not able to delete a subcategory until it is no longer associated with any items.
 
 ## Request
 
-**URL** : `/v3/resource-types/{resource_type_id}/resources/{resource_id}`
+**URL** : `/v3/resource-types/{resource_type_id}/categories/{category_id}/subcategories/{subcategory_id}`
 
 **Method** : `DELETE`
 
@@ -39,7 +41,7 @@ Delete the requested resource, you are not able to delete a resource until every
 **Content** : 
 ```json
 {
-    "message": "The resource can't be found."
+    "message": "The subcategory can't be found."
 }
 ```
 
@@ -50,6 +52,6 @@ Delete the requested resource, you are not able to delete a resource until every
 **Content** : 
 ```json
 {
-    "message": "Resource can't be found or is not accessible to you."
+    "message": "Subcategory can't be found or is not accessible to you."
 }
 ```

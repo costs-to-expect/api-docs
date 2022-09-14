@@ -14,7 +14,7 @@ The Costs to Expect API, supports three item types:
 
 ### Allocated Expense
 
-Chronological expenses tracking, use by the [Expense](https://app.costs-to-expect.com) App. In addition to defining the data for an expense, you can set a publish after date and allocate a percentage of the total cost. Expenses can be partially transfered to other resources to split the cost and transferred entirely to another resource to move the cost.
+Chronological expenses tracking, use by the [Expense](https://app.costs-to-expect.com) App. In addition to defining the data for an expense, you can set a publish after date and allocate a percentage of the total cost. Expenses can be partially transferred to other resources to split the cost and transferred entirely to another resource to move the cost.
 
 ### Budget
 

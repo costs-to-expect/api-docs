@@ -2,15 +2,15 @@
 
 ## Self-documenting
 
-We have tried to make our API as easy to use as possible, although our documenation is thorough, our goal is you don't read it, once you have fetched the resposne for the root of the API, you should be able to get at anything you need.
+We have tried to make our API as easy to use as possible, although our documentation is thorough, our goal is you don't read it, once you have fetched the response for the root of the API, you should be able to get at anything you need.
 
 ## OPTIONS requests
 
-We have added an OPTIONS endpoint for every route, the OPTIONS request reponse will list the endpoints supported by the route, any parameters and fields as well as a general overview of the purpose.
+We have added an OPTIONS endpoint for every route, the OPTIONS request response will list the endpoints supported by the route, any parameters and fields as well as a general overview of the purpose.
 
 ## Summaries
 
-If a summary route exists for a collection, the summary route will always by the route with a `/summary/` prefix. A summary route will support all the same parameters as the collection it summarises and possibly a few more.
+If a summary route exists for a collection, the summary route will always by the route with a `/summary/` prefix. A summary route will support all the same parameters as the collection it summaries and possibly a few more.
 
 ## Cache
 

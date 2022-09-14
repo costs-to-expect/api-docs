@@ -1,15 +1,15 @@
 [API Sections](../Sections.md)
 [Resource types](../resource-types/GET.md)
 [Resource type](../resource-type/GET.md)
-[Resources](../resources/GET.md)
+[Categories](../categories/GET.md)
 
-# Resource - PATCH
+# Category - PATCH
 
-Update the resource, the table below details the fields and their data type
+Update the category, the table below details the fields and their data type
 
 ## Request
 
-**URL** : `/v3/resource-types/{resource_type_id}/resources/{resource_id}`
+**URL** : `/v3/resource-types/{resource_type_id}`
 
 **Method** : `PATCH`
 
@@ -17,9 +17,8 @@ Update the resource, the table below details the fields and their data type
 
 Name | Type | Description
 ---|---|---
-name | string | The name of the resource type
-description | string | A description of the resource type
-data | json | An optional json object
+name | string | The name of the category
+description | string | A description of the category
 
 ## Responses
 
@@ -36,7 +35,7 @@ data | json | An optional json object
 **Content** : 
 ```json
 {
-    "message": "Resource can't be found."
+    "message": "Category can't be found."
 }
 ```
 
@@ -47,7 +46,7 @@ data | json | An optional json object
 **Content** : 
 ```json
 {
-    "message": "Resource can't be found or is not accessible to you."
+    "message": "Category can't be found or is not accessible to you."
 }
 ```
 

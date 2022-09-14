@@ -19,7 +19,7 @@ name | string | Yes | The name of the resource type
 description | string | Yes | A description of the resource type
 data | json | No | An optional json object
 item_type_id | string | Yes | The item type to use, must be one of the allowed values
-public | boolean | No | Should the resource type be publically visible, defaults to false
+public | boolean | No | Should the resource type be publicly visible, defaults to false
 
 ## Responses
 
