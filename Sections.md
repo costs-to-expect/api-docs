@@ -134,3 +134,11 @@ An individual resource.
 - [GET](/resource/GET.md)
 - [PATCH](resource/PATCH.md)
 - [DELETE](/resource/DELETE.md)
+
+##### Items (Allocated Expense)
+
+Items collection.
+
+- [GET](/items-allocated-expense/GET.md)
+- [POST](/items-allocated-expense/POST.md)
+- 
