@@ -17,7 +17,7 @@ Update the allocated expense, the table below details the fields and their data 
 
 **Fields** :
 
-Name | Type | Required | Description
+Name | Type | Description
 ---|---|---|---
 name | string | The name of the expense
 description | string | A optional description of the expense

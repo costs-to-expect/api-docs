@@ -147,3 +147,16 @@ Items collection.
 - [GET](/item-allocated-expense/GET.md)
 - [PATCH](item-allocated-expense/PATCH.md)
 - [DELETE](/item-allocated-expense/DELETE.md)
+
+##### Items (Game)
+
+Items collection.
+
+- [GET](/items-game/GET.md)
+- [POST](/items-game/POST.md)
+
+###### (Item) Game
+
+- [GET](/item-game/GET.md)
+- [PATCH](item-game/PATCH.md)
+- [DELETE](/item-game/DELETE.md)
