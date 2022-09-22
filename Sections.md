@@ -155,6 +155,12 @@ Items collection.
 - [GET](/items-budget/GET.md)
 - [POST](/items-budget/POST.md)
 
+###### (Item) Budget
+
+- [GET](/item-budget/GET.md)
+- [PATCH](item-budget/PATCH.md)
+- [DELETE](/item-budget/DELETE.md)
+
 ##### Items (Game)
 
 Items collection.
