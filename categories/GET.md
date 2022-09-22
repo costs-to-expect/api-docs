@@ -23,8 +23,8 @@ Parameter | Type | Default | Description | Example
 collection | boolean | false | Override pagination and return the entire collection | collection=true
 limit | integer | 25 | Limit the collection | limit=25
 offset | integer | 0 | Limit offset | offset=0
-search | string | | Search collection fields | field1:partial_search_term\|field2:partial_search_term
-sort | string | | Sort collection | field1:asc|field2:desc
+search | string | | Search collection fields | search=field1:partial_search_term|field2:partial_search_term
+sort | string | | Sort collection | sort=field1:asc|field2:desc
 
 ## Response
 
