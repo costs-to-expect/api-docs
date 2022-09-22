@@ -141,4 +141,9 @@ Items collection.
 
 - [GET](/items-allocated-expense/GET.md)
 - [POST](/items-allocated-expense/POST.md)
-- 
+
+###### (Item) Allocated Expense
+
+- [GET](/item-allocated-expense/GET.md)
+- [PATCH](item-allocated-expense/PATCH.md)
+- [DELETE](/item-allocated-expense/DELETE.md)
