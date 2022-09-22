@@ -44,5 +44,5 @@ include-subcategories | boolean | false | Optionally include assign subcategorie
     "categories": [],
     "created": "2022-08-28 11:26:07",
     "updated": null
-},
+}
 ```
