@@ -25,7 +25,6 @@ description | string | No | A optional description of the budget item
 amount | decimal | Yes | The amount for the budget item
 currency_id | string | Yes | The currency id, must be one of the allowed values
 category | string | Yes | The category for the budget item, allowable values income, fixed, flexible or savings
-total | decimal | Yes | The total amount of the expense
 start_date | date | Yes | The date from which the budget item is relevant
 end_date | date | No | The date from which the budget item is no longer relevant
 disabled | boolean | No | Whether the budget item is disabled
