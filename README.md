@@ -2,9 +2,9 @@
 
 ## Overview
 
-Costs to Expect is a service focused on tracking and forecasting expenses, our long-term goal is to simplify all your budgeting and forecasting needs.
+Costs to Expect is a service focused on tracking and forecasting, our long-term goal is to simplify all your budgeting and forecasting needs.
 
-You are not limited to tracking expenses, the Costs to Expect API can help you catalogue almost anything, over time we are going to add addiitonal item types for our products but you are free to submit a PR or raise an issue explaining your need. In the future we plan to add a generic item type to allow open usage of the API.
+You are not limited to tracking expenses, the Costs to Expect API can help you catalogue almost anything, over time we are going to add additional item types for our products but you are free to submit a PR or raise an issue explaining your need. In the future we plan to add a generic item type to allow open usage of the API.
 
 There are multiple products within the Costs to Expect service; they are all driven by this Open Source RESTful API, our Apps store very little data, typically just settings and caches.
 
