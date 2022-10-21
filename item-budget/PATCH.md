@@ -25,11 +25,10 @@ target_account | string(UUID) | The UUID of the account the savings should be ad
 description | string | A optional description of the budget item
 amount | decimal | The amount for the budget item
 category | string | The category for the budget item, allowable values income, fixed, flexible or savings
-total | decimal | Yes | The total amount of the expense
-start_date | date | Yes | The date from which the budget item is relevant
-end_date | date | No | The date from which the budget item is no longer relevant
-disabled | boolean | No | Whether the budget item is disabled
-frequency | json | Yes | The frequency definition for the budget item, how often it repeats
+start_date | date | The date from which the budget item is relevant
+end_date | date | The date from which the budget item is no longer relevant
+disabled | boolean | Whether the budget item is disabled
+frequency | json | The frequency definition for the budget item, how often it repeats
 
 ## Responses
 
