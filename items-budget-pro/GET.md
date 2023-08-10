@@ -4,11 +4,11 @@
 [Resources](../resources/GET.md)
 [Resource](../resource/GET.md)
 
-# Items (Budget) - GET
+# Items (Budget Pro) - GET
 
 Return the items collection for the given resource.
 
-The `budget` item type is used to define items that appear on a budget, a definition of the item and the frequency with which it repeats.
+The `budget-pro` item type is used to define items that appear on a budget in Budget Pro. The object is a definition of the item and the frequency with which it repeats.
 
 ## Request
 
@@ -48,6 +48,7 @@ sort | string | | Sort collection | sort=field1:asc|field2:desc
         "start_date": "2022-04-01",
         "end_date": "2023-03-21",
         "disabled": false,
+        "deleted": false,
         "frequency": {
             "day": 10,
             "type": "monthly",

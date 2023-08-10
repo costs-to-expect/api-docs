@@ -161,6 +161,19 @@ Items collection.
 - [PATCH](item-budget/PATCH.md)
 - [DELETE](/item-budget/DELETE.md)
 
+## Items (Budget Pro)
+
+Items collection.
+
+- [GET](/items-budget-pro/GET.md)
+- [POST](/items-budget-pro/POST.md)
+
+### (Item) Budget
+
+- [GET](/item-budget-pro/GET.md)
+- [PATCH](item-budget-pro/PATCH.md)
+- [DELETE](/item-budget-pro/DELETE.md)
+
 ## Items (Game)
 
 Items collection.

@@ -18,7 +18,11 @@ Chronological expenses tracking, use by the [Expense](https://app.costs-to-expec
 
 ### Budget
 
-Budgets items are used by the [Budget](https://budget.costs-to-expect.com) App. Budgets items are a definition of a planned expense and the frequency with which is occurs.
+Budget items are used by the [Budget](https://budget.costs-to-expect.com) App. Budgets items are a definition of a planned expense and the frequency with which it occurs.
+
+### Budget Pro
+
+Budget Pro items are used by the [Budget](https://budget-pro.costs-to-expect.com) App. Budgets items are a definition of a planned expense and the frequency with which it occurs.
 
 ### Game
 
@@ -47,6 +51,14 @@ sort | string | | Sort collection | sort=field1:asc|field2:desc
 **Content** : 
 ```json
 [
+    {
+        "id": "WkxwR04GPo",
+        "name": "budget-pro",
+        "friendly_name": "Budgeting",
+        "description": "Plan your budgets",
+        "example": "Annual Personal Budget, Business Budget, Savings plan...",
+        "created": "2023-06-01 15:20:43"
+    },
     {
         "id": "VezyrJyMlk",
         "name": "budget",

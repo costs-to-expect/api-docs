@@ -3,9 +3,9 @@
 [Resource type](../resource-type/GET.md)
 [Resources](../resources/GET.md)
 [Resource](../resource/GET.md)
-[Items (Budget) - GET](../items-budget/GET.md)
+[Items (Budget Pro) - GET](../items-budget/GET.md)
 
-# Item (Budget) - DELETE
+# Item (Budget Pro) - DELETE
 
 Delete the requested item.
 
