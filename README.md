@@ -9,7 +9,7 @@ You are not limited to tracking expenses, the Costs to Expect API can help you c
 There are multiple products within the Costs to Expect service; they are all driven by this Open Source RESTful API, our Apps store very little data, typically just settings and caches.
 
 - [Budget](https://budget.costs-to-expect.com) Our free and Open Source Budget tool
-- Budget Pro (Coming soon) The commercial version of Budget
+- [Budget Pro](https://budget-pro.costs-to-expect.com) Our free and Open Source Budget tool
 - [Expense](https://app.costs-to-expect.com) Our free and Open Source expense tracker
 - Expense Pro (Coming soon) The commercial version of Expense
 - [Social Experiment](https://www.costs-to-expect.com) How much does it cost to raise a child to adulthood in the UK?
